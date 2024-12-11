@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "639185216247",
+    "project_id": "eslam-card",
+    "storage_bucket": "eslam-card.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639185216247:android:4af814d01a9c854bf8e9f2",
+        "android_client_info": {
+          "package_name": "com.company.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY77tmIKf5E5bR1pba1fLIpOkI5eYKmrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639185216247:android:4992fdc6c30a95f4f8e9f2",
+        "android_client_info": {
+          "package_name": "schemas.android.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY77tmIKf5E5bR1pba1fLIpOkI5eYKmrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
